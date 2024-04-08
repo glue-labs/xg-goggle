@@ -1,0 +1,8 @@
+! name: xg
+! description: Rerank results to boost blogs from substack & medium.
+! public: false
+! author: XG
+! avatar: #43f85e
+
+$boost=4,site=substack.com
+$boost=4,site=medium.com
